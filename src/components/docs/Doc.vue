@@ -319,7 +319,7 @@
         The sidenav scrollbar is hidden by default but you can still scroll with
         the keyboards if you have several sidenav-items. If you are not a fan of
         this approach, you can always change its style in the
-        <span class="font-medium">dashboard/Index.vue</span> file
+        <span class="font-medium">dashboard/sidenavigation/Index.vue</span> file
       </p>
       <p class="mt-5">
         In the <span class="font-medium"> dashboard/Layout.vue</span> file, the
