@@ -6,8 +6,4 @@
   </svg>
 </template>
 
-<script>
-export default {
-  name: 'VideosIcon',
-};
-</script>
+<script setup></script>
